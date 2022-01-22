@@ -1,31 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my Report Pages
 
-You can use the [editor on GitHub](https://github.com/willmayrink/reports/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### RJ de Oliveira Neto (Localização)
+This report was build to give insights for the owner about the locations of their costumers and also help in further marketing advertise.
+Este relatório foi criado buscando gerar insights ao proprietário sobre a localização de seus clientes e também ajudando em futuras campanhas de marketing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe width="900" height="675" src="https://datastudio.google.com/embed/reporting/6c7d5f4a-9001-4ddd-a66b-3f75a7a497d0/page/tymjC" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
